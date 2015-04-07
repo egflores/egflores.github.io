@@ -1,2 +1,2 @@
 # egflores.github.io
-Parked website!!
+This will be the splash page for the foodi app.
